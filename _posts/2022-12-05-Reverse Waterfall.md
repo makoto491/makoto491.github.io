@@ -2,10 +2,10 @@
 layout: post
 title: Reverse Waterfall
 date: 2022-12-05
-description: a zine
+description: A Zine
 tags: formatting
 categories: zine
-thumbnail: assets/img/Reverse Waterfall.jpg
+thumbnail: assets/img/projects_pic/2022_Reverse Waterfall.jpg
 images:
   compare: true
   slider: true
