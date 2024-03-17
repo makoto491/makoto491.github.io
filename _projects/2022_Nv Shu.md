@@ -11,5 +11,5 @@ related_publications: true
  A zine
 
  <div>
-  {% include figure.liquid path="../assets/img/projects_pic/2023_Nv Shu.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  {% include figure.liquid path="../assets/img/projects_pic/2022_Nv Shu.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
